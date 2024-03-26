@@ -1,0 +1,10 @@
+.postBlock {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 25px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.postBlock h2 {
+  margin: 0 0 30px 0;
+}
