@@ -107,7 +107,7 @@ function App() {
       }
     }, 1000)
   }, [])
-
+  // new comment
   return (
     <div className="App">
       <div className="wrapper">
